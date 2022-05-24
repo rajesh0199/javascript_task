@@ -1,0 +1,31 @@
+.personal_details_box{
+    background-color: #f9fbfe;
+    width: 100vw;
+    height: 100vh;
+}
+h1{
+    margin: 10px;
+}
+.label{
+    font-weight: bold;
+    font-size: 20px;
+    margin: 10px;
+}
+.input1{
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.btnnormal{
+    margin: 10px;
+}
+.edit_btn{
+    margin-bottom: 10px;
+}
+span{
+    color: black;
+    font-weight: bolder;
+    font-style: "Roboto";
+    font-size: 16px;
+}
